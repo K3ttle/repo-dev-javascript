@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: pink;
+  padding: 45px;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  width: 400px;
+}
+
+.first-paragraph {
+  color: blueviolet;
+  margin-bottom: 25px;
+}
+
+.your-name {
+  background-color: blueviolet;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
