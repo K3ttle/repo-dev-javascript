@@ -13,7 +13,7 @@ function generateRandomNumber(n) {
 
 function ShowDice() {
   if (dice.classList.contains("hidden")) {
-    dice.classList.remove("hidden");
+    dice.classList.remove("hiddenlol");
   }
 }
 
